@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:cobbdb/restful-api.git"
+    "url": "https://github.com/cobbdb/rest-interface.git"
   },
   "author": "Dan Cobb <cobbdb@gmail.com> (http://www.github.com/cobbdb)",
   "dependencies": {
