@@ -1,0 +1,20 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "jasmine-node tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:cobbdb/restful-api.git"
+  },
+  "author": "Dan Cobb <cobbdb@gmail.com> (http://www.github.com/cobbdb)",
+  "dependencies": {
+    "extend": "~1.3.0"
+  },
+  "devDependencies": {
+    "jasmine-node": "~1.14.5"
+  }
+}
