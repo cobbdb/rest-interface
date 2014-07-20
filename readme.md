@@ -1,4 +1,4 @@
-# simple-promise [![NPM version](https://badge.fury.io/js/rest-interface.svg)](http://badge.fury.io/js/rest-interface)
+# rest-interface [![NPM version](https://badge.fury.io/js/rest-interface.svg)](http://badge.fury.io/js/rest-interface)
 
 Quick and painless RESTful interface for node apps.
 
