@@ -1,6 +1,6 @@
 {
   "name": "rest-interface",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quick and painless RESTful interface for node apps.",
   "main": "api.js",
   "scripts": {
