@@ -1,5 +1,5 @@
 {
-  "name": "restful-api",
+  "name": "rest-interface",
   "version": "1.0.0",
   "description": "Quick and painless RESTful interface for node apps.",
   "main": "api.js",
