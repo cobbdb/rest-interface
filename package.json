@@ -1,7 +1,7 @@
 {
   "name": "restful-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Quick and painless RESTful interface for node apps.",
   "main": "api.js",
   "scripts": {
     "test": "jasmine-node tests"
@@ -16,5 +16,21 @@
   },
   "devDependencies": {
     "jasmine-node": "~1.14.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/cobbdb/rest-interface/issues"
+  },
+  "homepage": "https://github.com/cobbdb/rest-interface",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "restful",
+    "seam",
+    "standard",
+    "simple"
+  ],
+  "license": "MIT"
 }
